@@ -1,2 +1,2 @@
-# Udacity-Chinook-DB
-Advanced Data analysis Nanodegree
+# Chinook-DB- Udacity project-Advanced Data analysis Nanodegree
+
